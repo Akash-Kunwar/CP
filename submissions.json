@@ -508,6 +508,24 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF76695487": {
+    "contest_id": 1324,
+    "language": "Python 3",
+    "path": "codeforces\\1324\\D.py",
+    "problem_index": "D",
+    "problem_name": "Pair of Topics",
+    "problem_url": "https://codeforces.com/contest/1324/problem/D",
+    "submission_id": "CF76695487",
+    "submission_url": "https://codeforces.com/contest/1324/submission/76695487",
+    "tags": [
+      "binary search",
+      "data structures",
+      "sortings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Apr/14/2020 18:40"
+  },
   "CF76699996": {
     "contest_id": 1251,
     "language": "Python 3",
