@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF76735177": {
+    "contest_id": 166,
+    "language": "PyPy 3",
+    "path": "codeforces\\166\\A.py",
+    "problem_index": "A",
+    "problem_name": "Rank List",
+    "problem_url": "https://codeforces.com/contest/166/problem/A",
+    "submission_id": "CF76735177",
+    "submission_url": "https://codeforces.com/contest/166/submission/76735177",
+    "tags": [
+      "binary search",
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Apr/15/2020 01:23"
+  },
   "CF76854732": {
     "contest_id": 1337,
     "language": "PyPy 3",
