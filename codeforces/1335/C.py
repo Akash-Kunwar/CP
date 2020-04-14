@@ -10,5 +10,6 @@ for i in range(int(input())):
             d[arr[i]]=1
         maxcount=max(maxcount,d[arr[i]])
     diff=len(d)
+    # print(maxcount,diff)
     print(max(min(diff-1,maxcount),min(maxcount-1,diff)))
     
