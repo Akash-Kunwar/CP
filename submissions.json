@@ -508,6 +508,21 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF76987859": {
+    "contest_id": 1106,
+    "language": "PyPy 3",
+    "path": "codeforces\\1106\\A.py",
+    "problem_index": "A",
+    "problem_name": "Lunar New Year and Cross Counting",
+    "problem_url": "https://codeforces.com/contest/1106/problem/A",
+    "submission_id": "CF76987859",
+    "submission_url": "https://codeforces.com/contest/1106/submission/76987859",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/16/2020 20:46"
+  },
   "CF77001507": {
     "contest_id": 1311,
     "language": "PyPy 3",
