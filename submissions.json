@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF77015720": {
+    "contest_id": 1311,
+    "language": "PyPy 3",
+    "path": "codeforces\\1311\\B.py",
+    "problem_index": "B",
+    "problem_name": "WeirdSort",
+    "problem_url": "https://codeforces.com/contest/1311/problem/B",
+    "submission_id": "CF77015720",
+    "submission_url": "https://codeforces.com/contest/1311/submission/77015720",
+    "tags": [
+      "dfs and similar",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Apr/17/2020 01:56"
+  },
   "CF77076520": {
     "contest_id": 1311,
     "language": "PyPy 3",
