@@ -508,6 +508,21 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF76934078": {
+    "contest_id": 1330,
+    "language": "PyPy 3",
+    "path": "codeforces\\1330\\A.py",
+    "problem_index": "A",
+    "problem_name": "Dreamoon and Ranking Collection",
+    "problem_url": "https://codeforces.com/contest/1330/problem/A",
+    "submission_id": "CF76934078",
+    "submission_url": "https://codeforces.com/contest/1330/submission/76934078",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/16/2020 11:41"
+  },
   "CF76987859": {
     "contest_id": 1106,
     "language": "PyPy 3",
