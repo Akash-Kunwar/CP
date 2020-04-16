@@ -508,6 +508,24 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF76930278": {
+    "contest_id": 600,
+    "language": "PyPy 3",
+    "path": "codeforces\\600\\B.py",
+    "problem_index": "B",
+    "problem_name": "Queries about less or equal elements",
+    "problem_url": "https://codeforces.com/contest/600/problem/B",
+    "submission_id": "CF76930278",
+    "submission_url": "https://codeforces.com/contest/600/submission/76930278",
+    "tags": [
+      "binary search",
+      "data structures",
+      "sortings",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Apr/16/2020 10:52"
+  },
   "CF76934078": {
     "contest_id": 1330,
     "language": "PyPy 3",
