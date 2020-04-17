@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF77076520": {
+    "contest_id": 1311,
+    "language": "PyPy 3",
+    "path": "codeforces\\1311\\D.py",
+    "problem_index": "D",
+    "problem_name": "Three Integers",
+    "problem_url": "https://codeforces.com/contest/1311/problem/D",
+    "submission_id": "CF77076520",
+    "submission_url": "https://codeforces.com/contest/1311/submission/77076520",
+    "tags": [
+      "brute force",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Apr/17/2020 18:30"
+  },
   "CF77105183": {
     "contest_id": 1283,
     "language": "PyPy 3",
