@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF77467926": {
+    "contest_id": 189,
+    "language": "PyPy 3",
+    "path": "codeforces\\189\\A.py",
+    "problem_index": "A",
+    "problem_name": "Cut Ribbon",
+    "problem_url": "https://codeforces.com/contest/189/problem/A",
+    "submission_id": "CF77467926",
+    "submission_url": "https://codeforces.com/contest/189/submission/77467926",
+    "tags": [
+      "brute force",
+      "dp",
+      "*1300"
+    ],
+    "timestamp": "Apr/21/2020 18:19"
+  },
   "CF77496621": {
     "contest_id": 1343,
     "language": "PyPy 3",
