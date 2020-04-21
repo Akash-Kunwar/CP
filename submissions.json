@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF77463791": {
+    "contest_id": 580,
+    "language": "PyPy 3",
+    "path": "codeforces\\580\\A.py",
+    "problem_index": "A",
+    "problem_name": "Kefa and First Steps",
+    "problem_url": "https://codeforces.com/contest/580/problem/A",
+    "submission_id": "CF77463791",
+    "submission_url": "https://codeforces.com/contest/580/submission/77463791",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/21/2020 17:35"
+  },
   "CF77467926": {
     "contest_id": 189,
     "language": "PyPy 3",
