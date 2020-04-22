@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF77675660": {
+    "contest_id": 702,
+    "language": "Java 8",
+    "path": "codeforces\\702\\A.java",
+    "problem_index": "A",
+    "problem_name": "Maximum Increase",
+    "problem_url": "https://codeforces.com/contest/702/problem/A",
+    "submission_id": "CF77675660",
+    "submission_url": "https://codeforces.com/contest/702/submission/77675660",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/22/2020 22:20"
+  },
   "CF77679089": {
     "contest_id": 1249,
     "language": "Java 8",
