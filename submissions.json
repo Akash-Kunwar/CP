@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF77683572": {
+    "contest_id": 1249,
+    "language": "PyPy 3",
+    "path": "codeforces\\1249\\B2.py",
+    "problem_index": "B2",
+    "problem_name": "Books Exchange (hard version)",
+    "problem_url": "https://codeforces.com/contest/1249/problem/B2",
+    "submission_id": "CF77683572",
+    "submission_url": "https://codeforces.com/contest/1249/submission/77683572",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Apr/22/2020 23:43"
+  },
   "CF77691168": {
     "contest_id": 1249,
     "language": "Java 8",
