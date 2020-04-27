@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF78262984": {
+    "contest_id": 732,
+    "language": "PyPy 3",
+    "path": "codeforces\\732\\B.py",
+    "problem_index": "B",
+    "problem_name": "Cormen --- The Best Friend Of a Man",
+    "problem_url": "https://codeforces.com/contest/732/problem/B",
+    "submission_id": "CF78262984",
+    "submission_url": "https://codeforces.com/contest/732/submission/78262984",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Apr/27/2020 13:04"
+  },
   "CF78278798": {
     "contest_id": 996,
     "language": "PyPy 3",
