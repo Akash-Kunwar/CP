@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF78993597": {
+    "contest_id": 1216,
+    "language": "PyPy 3",
+    "path": "codeforces\\1216\\B.py",
+    "problem_index": "B",
+    "problem_name": "Shooting",
+    "problem_url": "https://codeforces.com/contest/1216/problem/B",
+    "submission_id": "CF78993597",
+    "submission_url": "https://codeforces.com/contest/1216/submission/78993597",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "May/04/2020 23:30"
+  },
   "CF79069017": {
     "contest_id": 455,
     "language": "Java 11",
