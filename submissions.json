@@ -508,6 +508,21 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF79403806": {
+    "contest_id": 1102,
+    "language": "Java 11",
+    "path": "codeforces\\1102\\A.java",
+    "problem_index": "A",
+    "problem_name": "Integer Sequence Dividing",
+    "problem_url": "https://codeforces.com/contest/1102/problem/A",
+    "submission_id": "CF79403806",
+    "submission_url": "https://codeforces.com/contest/1102/submission/79403806",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/08/2020 23:24"
+  },
   "CF79406422": {
     "contest_id": 1102,
     "language": "PyPy 3",
