@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF79414636": {
+    "contest_id": 1102,
+    "language": "PyPy 3",
+    "path": "codeforces\\1102\\B.py",
+    "problem_index": "B",
+    "problem_name": "Array K-Coloring",
+    "problem_url": "https://codeforces.com/contest/1102/problem/B",
+    "submission_id": "CF79414636",
+    "submission_url": "https://codeforces.com/contest/1102/submission/79414636",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "May/09/2020 02:04"
+  },
   "CF79484532": {
     "contest_id": 1352,
     "language": "PyPy 3",
