@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF79484532": {
+    "contest_id": 1352,
+    "language": "PyPy 3",
+    "path": "codeforces\\1352\\A.py",
+    "problem_index": "A",
+    "problem_name": "Sum of Round Numbers",
+    "problem_url": "https://codeforces.com/contest/1352/problem/A",
+    "submission_id": "CF79484532",
+    "submission_url": "https://codeforces.com/contest/1352/submission/79484532",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/09/2020 20:17"
+  },
   "CF79513401": {
     "contest_id": 1352,
     "language": "PyPy 3",
