@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF79683084": {
+    "contest_id": 1352,
+    "language": "PyPy 3",
+    "path": "codeforces\\1352\\E.py",
+    "problem_index": "E",
+    "problem_name": "Special Elements",
+    "problem_url": "https://codeforces.com/contest/1352/problem/E",
+    "submission_id": "CF79683084",
+    "submission_url": "https://codeforces.com/contest/1352/submission/79683084",
+    "tags": [
+      "brute force",
+      "implementation",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "May/11/2020 00:20"
+  },
   "CF80096467": {
     "contest_id": 1353,
     "language": "PyPy 3",
