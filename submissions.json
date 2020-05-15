@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF80217810": {
+    "contest_id": 1353,
+    "language": "PyPy 3",
+    "path": "codeforces\\1353\\D.py",
+    "problem_index": "D",
+    "problem_name": "Constructing the Array",
+    "problem_url": "https://codeforces.com/contest/1353/problem/D",
+    "submission_id": "CF80217810",
+    "submission_url": "https://codeforces.com/contest/1353/submission/80217810",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "May/15/2020 16:37"
+  },
   "CF80285730": {
     "contest_id": 501,
     "language": "Java 8",
