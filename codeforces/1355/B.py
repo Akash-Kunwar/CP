@@ -14,4 +14,4 @@ for _ in range(t):
             start=0
     a.append(ans)
 for i in a:
-    print(i)
+    sys.stdout.write(str(i)+'\n')
