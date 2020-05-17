@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF80434370": {
+    "contest_id": 1355,
+    "language": "PyPy 3",
+    "path": "codeforces\\1355\\D.py",
+    "problem_index": "D",
+    "problem_name": "Game With Array",
+    "problem_url": "https://codeforces.com/contest/1355/problem/D",
+    "submission_id": "CF80434370",
+    "submission_url": "https://codeforces.com/contest/1355/submission/80434370",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/17/2020 10:55"
+  },
   "CF80458983": {
     "contest_id": 1354,
     "language": "PyPy 3",
