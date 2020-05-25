@@ -508,6 +508,21 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF81414908": {
+    "contest_id": 1245,
+    "language": "PyPy 3",
+    "path": "codeforces\\1245\\C.py",
+    "problem_index": "C",
+    "problem_name": "Constanze's Machine",
+    "problem_url": "https://codeforces.com/contest/1245/problem/C",
+    "submission_id": "CF81414908",
+    "submission_url": "https://codeforces.com/contest/1245/submission/81414908",
+    "tags": [
+      "dp",
+      "*1400"
+    ],
+    "timestamp": "May/26/2020 00:30"
+  },
   "CF81436056": {
     "contest_id": 998,
     "language": "PyPy 3",
