@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF81436056": {
+    "contest_id": 998,
+    "language": "PyPy 3",
+    "path": "codeforces\\998\\B.py",
+    "problem_index": "B",
+    "problem_name": "Cutting",
+    "problem_url": "https://codeforces.com/contest/998/problem/B",
+    "submission_id": "CF81436056",
+    "submission_url": "https://codeforces.com/contest/998/submission/81436056",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "May/26/2020 10:17"
+  },
   "CF81438832": {
     "contest_id": 961,
     "language": "PyPy 3",
