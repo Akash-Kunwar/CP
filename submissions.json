@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF82215612": {
+    "contest_id": 1363,
+    "language": "Java 8",
+    "path": "codeforces\\1363\\A.java",
+    "problem_index": "A",
+    "problem_name": "Odd Selection",
+    "problem_url": "https://codeforces.com/contest/1363/problem/A",
+    "submission_id": "CF82215612",
+    "submission_url": "https://codeforces.com/contest/1363/submission/82215612",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jun/01/2020 17:53"
+  },
   "CF82594565": {
     "contest_id": 1362,
     "language": "PyPy 3",
