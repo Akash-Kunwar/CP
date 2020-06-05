@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF82596548": {
+    "contest_id": 1362,
+    "language": "PyPy 3",
+    "path": "codeforces\\1362\\B.py",
+    "problem_index": "B",
+    "problem_name": "Johnny and His Hobbies",
+    "problem_url": "https://codeforces.com/contest/1362/problem/B",
+    "submission_id": "CF82596548",
+    "submission_url": "https://codeforces.com/contest/1362/submission/82596548",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "*1200"
+    ],
+    "timestamp": "Jun/05/2020 10:42"
+  },
   "CF82608138": {
     "contest_id": 1362,
     "language": "PyPy 3",
