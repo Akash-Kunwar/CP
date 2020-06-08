@@ -508,6 +508,27 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF83121037": {
+    "contest_id": 1365,
+    "language": "PyPy 3",
+    "path": "codeforces\\1365\\D.py",
+    "problem_index": "D",
+    "problem_name": "Solve The Maze",
+    "problem_url": "https://codeforces.com/contest/1365/problem/D",
+    "submission_id": "CF83121037",
+    "submission_url": "https://codeforces.com/contest/1365/submission/83121037",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "implementation",
+      "shortest paths",
+      "*1700"
+    ],
+    "timestamp": "Jun/08/2020 15:15"
+  },
   "CF83435022": {
     "contest_id": 1366,
     "language": "PyPy 3",
