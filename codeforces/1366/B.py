@@ -10,7 +10,7 @@ for _ in range(int(input())):
         elif(l<=a and r>=a):
             a=min(l,a)
             b=max(b,r)
-        elif(l<=b and r>=b):
+        elif(l>=a and r>=b):
             a=min(l,a)
             b=max(b,r)
 
