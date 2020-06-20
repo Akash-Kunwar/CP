@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF84525871": {
+    "contest_id": 1370,
+    "language": "PyPy 3",
+    "path": "codeforces\\1370\\C.py",
+    "problem_index": "C",
+    "problem_name": "Number Game",
+    "problem_url": "https://codeforces.com/contest/1370/problem/C",
+    "submission_id": "CF84525871",
+    "submission_url": "https://codeforces.com/contest/1370/submission/84525871",
+    "tags": [
+      "games",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Jun/21/2020 01:13"
+  },
   "CF84647377": {
     "contest_id": 1370,
     "language": "Java 11",
