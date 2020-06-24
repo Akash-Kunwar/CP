@@ -508,6 +508,26 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF84903335": {
+    "contest_id": 520,
+    "language": "PyPy 3",
+    "path": "codeforces\\520\\B.py",
+    "problem_index": "B",
+    "problem_name": "Two Buttons",
+    "problem_url": "https://codeforces.com/contest/520/problem/B",
+    "submission_id": "CF84903335",
+    "submission_url": "https://codeforces.com/contest/520/submission/84903335",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "implementation",
+      "math",
+      "shortest paths",
+      "*1400"
+    ],
+    "timestamp": "Jun/24/2020 20:55"
+  },
   "CF84906188": {
     "contest_id": 550,
     "language": "PyPy 3",

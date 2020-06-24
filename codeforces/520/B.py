@@ -1,0 +1,14 @@
+n,m=map(int,input().split())
+ans=0
+while(True):
+    if(m<=n):
+        ans+=n-m
+        break
+    else:
+        if(m%2==0):
+            ans+=1
+            m=m//2
+        else:
+            ans+=1
+            m=m+1
+print(ans)
