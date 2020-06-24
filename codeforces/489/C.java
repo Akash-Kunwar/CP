@@ -9,7 +9,6 @@ public class GFG{
 
       int n=sc.nextInt();
       int k=sc.nextInt();
-      
 
       ArrayList<Integer> max=new ArrayList<Integer>();
       ArrayList<Integer> min=new ArrayList<Integer>();
