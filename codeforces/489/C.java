@@ -1,19 +1,19 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
- 
+
 public class GFG{
    public static void main (String[] args)  throws Exception
 	 {
       FastScanner sc=new FastScanner(System.in);
- 
+
       int n=sc.nextInt();
       int k=sc.nextInt();
       
- 
+
       ArrayList<Integer> max=new ArrayList<Integer>();
       ArrayList<Integer> min=new ArrayList<Integer>();
- 
+
       if(n*9<k){
         System.out.println("-1 -1");
       }
@@ -34,31 +34,31 @@ public class GFG{
           min.add(max.get(i));
         }
         int j=0;
- 
+
         while(j<n && min.get(j)==0){
           j+=1;
         }
- 
+
         if(j!=0){
           min.set(0,1);
           min.set(j,min.get(j)-1);
         }
- 
+
         String ans1="";
         String ans2="";
         for(int i=0;i<n;i++){
           ans1+=max.get(i).toString();
           ans2+=min.get(i).toString();
         }
- 
+
         System.out.println(ans2+ " "+ ans1);
- 
+
       }
- 
- 
+
+
    }
 }	
- 
+
 class FastScanner
 {
    
@@ -85,14 +85,14 @@ class FastScanner
 	   }while(c>' ');
 	   return sb.toString();
    }
- 
+
    public char nextChar() throws Exception
    {
 	   byte c=read();
 	   while(c<=' ') c= read();
 	   return (char)c;
    }
- 
+
    public int nextInt() throws Exception
    {
       int ret = 0;
@@ -108,7 +108,7 @@ class FastScanner
       if (neg) return -ret;
       return ret;
    }
- 
+
    public long nextLong() throws Exception
    {
       long ret = 0;
@@ -124,7 +124,7 @@ class FastScanner
       if (neg) return -ret;
       return ret;
    }
- 
+
    private void fillBuffer() throws Exception
    {
       bytesRead = din.read(buffer, bufferPointer = 0, BUFFER_SIZE);
