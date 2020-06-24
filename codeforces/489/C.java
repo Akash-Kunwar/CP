@@ -17,7 +17,6 @@ public class GFG{
       if(n*9<k){
         System.out.println("-1 -1");
       }
-
       else if(k==0){
         if(n==1){
           System.out.println("0 0");
