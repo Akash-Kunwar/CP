@@ -508,6 +508,21 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF85205992": {
+    "contest_id": 698,
+    "language": "Java 8",
+    "path": "codeforces\\698\\A.java",
+    "problem_index": "A",
+    "problem_name": "Vacations",
+    "problem_url": "https://codeforces.com/contest/698/problem/A",
+    "submission_id": "CF85205992",
+    "submission_url": "https://codeforces.com/contest/698/submission/85205992",
+    "tags": [
+      "dp",
+      "*1400"
+    ],
+    "timestamp": "Jun/27/2020 17:18"
+  },
   "CF85322390": {
     "contest_id": 1374,
     "language": "PyPy 3",
