@@ -508,6 +508,21 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF85197314": {
+    "contest_id": 52,
+    "language": "Java 8",
+    "path": "codeforces\\52\\C.java",
+    "problem_index": "C",
+    "problem_name": "Circular RMQ",
+    "problem_url": "https://codeforces.com/contest/52/problem/C",
+    "submission_id": "CF85197314",
+    "submission_url": "https://codeforces.com/contest/52/submission/85197314",
+    "tags": [
+      "data structures",
+      "*2200"
+    ],
+    "timestamp": "Jun/27/2020 15:34"
+  },
   "CF85200662": {
     "contest_id": 1373,
     "language": "Java 8",
