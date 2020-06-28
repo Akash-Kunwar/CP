@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF85407533": {
+    "contest_id": 1374,
+    "language": "Java 8",
+    "path": "codeforces\\1374\\D.java",
+    "problem_index": "D",
+    "problem_name": "Zero Remainder Array",
+    "problem_url": "https://codeforces.com/contest/1374/problem/D",
+    "submission_id": "CF85407533",
+    "submission_url": "https://codeforces.com/contest/1374/submission/85407533",
+    "tags": [
+      "math",
+      "sortings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Jun/29/2020 02:27"
+  },
   "CF85444021": {
     "contest_id": 479,
     "language": "PyPy 3",
