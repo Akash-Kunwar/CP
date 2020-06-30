@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF85518161": {
+    "contest_id": 448,
+    "language": "Java 8",
+    "path": "codeforces\\448\\B.java",
+    "problem_index": "B",
+    "problem_name": "Suffix Structures",
+    "problem_url": "https://codeforces.com/contest/448/problem/B",
+    "submission_id": "CF85518161",
+    "submission_url": "https://codeforces.com/contest/448/submission/85518161",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Jun/30/2020 13:17"
+  },
   "CF85533652": {
     "contest_id": 486,
     "language": "Java 8",
