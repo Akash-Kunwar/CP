@@ -508,6 +508,21 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF85617613": {
+    "contest_id": 493,
+    "language": "PyPy 3",
+    "path": "codeforces\\493\\B.py",
+    "problem_index": "B",
+    "problem_name": "Vasya and Wrestling",
+    "problem_url": "https://codeforces.com/contest/493/problem/B",
+    "submission_id": "CF85617613",
+    "submission_url": "https://codeforces.com/contest/493/submission/85617613",
+    "tags": [
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jul/01/2020 17:19"
+  },
   "CF85620002": {
     "contest_id": 282,
     "language": "Java 8",
