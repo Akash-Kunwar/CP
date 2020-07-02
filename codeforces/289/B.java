@@ -1,48 +1,216 @@
 import java.util.*;
-import java.io.*;
 import java.lang.*;
-public class Main{
-    public static void main(String[] args) {
-        FastScanner sc =new FastScanner();
-        PrintWriter out=new PrintWriter(System.out);
-        int n=sc.nextInt(),m=sc.nextInt(),k=sc.nextInt();
-        int arr[]=new int[n*m];
-        Set<Integer> set =new HashSet<>();
-        for(int i=0;i<n*m;i++) 
-        {
-            arr[i]=sc.nextInt();
-            set.add(arr[i]%k);
-        }
-        if(set.size()>1){
-            out.println(-1);
-            out.close();
-            return;
-        }
-        Arrays.sort(arr);
-        int ans=0,x=arr[(n*m)/2];
-        for(int i=0;i<n*m;i++){
-            ans+=Math.abs(arr[i]-x)/k;
-        }
-        out.println(ans);
-        
-        out.close();
-    }
-}
+import java.io.*;
 
-class FastScanner{
-    BufferedReader br =new BufferedReader(new InputStreamReader(System.in));
-    StringTokenizer st =new StringTokenizer("");
-    String next(){
-        if(!st.hasMoreTokens()){
-            try{
-                st=new StringTokenizer(br.readLine());
-            }
-            catch(Exception e){    
+public class GFG
+{
+
+      
+    public static void main (String[] args)  throws Exception
+    {
+        FastScanner sc = new FastScanner(System.in);
+        PrintWriter out = new PrintWriter(System.out);
+
+        int n=sc.nextInt();
+        int m=sc.nextInt();
+        int k=sc.nextInt();
+
+
+        int b[]=new int [n*m];
+        Set<Integer> set =new TreeSet<Integer>();
+        for(int i=0;i<n*m;i++){
+          b[i]=sc.nextInt();
+          set.add(b[i]%k);
+        }
+
+        if(set.size()>1){
+          out.println("-1");
+        }
+        else{
+          Arrays.sort(b);
+          int med=(n*m/2);
+
+          int ans=0;
+          // out.println(b[med]);
+          for(int i=0;i<n*m;i++){
+            ans+=Math.abs(b[i]-b[med]);
+          }
+
+
+          out.println(ans/k);
+
+        }
+
+        
+
+        
+
+        out.close();
+
+    }
+
+}
+class FastScanner
+{
+
+    final private int BUFFER_SIZE = 1 << 17;
+    private DataInputStream din;
+    private byte[] buffer;
+    private int bufferPointer, bytesRead;
+
+    public FastScanner(InputStream in)
+    {
+        din = new DataInputStream(in);
+        buffer = new byte[BUFFER_SIZE];
+        bufferPointer = bytesRead = 0;
+    }
+    public String nextLine() throws Exception
+    {
+        StringBuffer sb = new StringBuffer("");
+        byte c = read();
+        while (c <= ' ') c = read();
+        do
+        {
+            sb.append((char)c);
+            c = read();
+        }
+        while(c > ' ');
+        return sb.toString();
+    }
+
+    public char nextChar() throws Exception
+    {
+        byte c = read();
+        while(c <= ' ') c = read();
+        return (char)c;
+    }
+
+    public int nextInt() throws Exception
+    {
+        int ret = 0;
+        byte c = read();
+        while (c <= ' ') c = read();
+        boolean neg = c == '-';
+        if (neg) c = read();
+        do
+        {
+            ret = ret * 10 + c - '0';
+            c = read();
+        }
+        while (c > ' ');
+        if (neg) return -ret;
+        return ret;
+    }
+
+    public long nextLong() throws Exception
+    {
+        long ret = 0;
+        byte c = read();
+        while (c <= ' ') c = read();
+        boolean neg = c == '-';
+        if (neg) c = read();
+        do
+        {
+            ret = ret * 10 + c - '0';
+            c = read();
+        }
+        while (c > ' ');
+        if (neg) return -ret;
+        return ret;
+    }
+
+    private void fillBuffer() throws Exception
+    {
+        bytesRead = din.read(buffer, bufferPointer = 0, BUFFER_SIZE);
+        if (bytesRead == -1) buffer[0] = -1;
+    }
+
+    private byte read() throws Exception
+    {
+        if (bufferPointer == bytesRead) fillBuffer();
+        return buffer[bufferPointer++];
+    }
+    public double nextDouble() throws Exception
+    {
+        double ret = 0, div = 1;
+        byte c = read();
+        while (c <= ' ')
+            c = read();
+        boolean neg = (c == '-');
+        if (neg)
+            c = read();
+
+        do
+        {
+            ret = ret * 10 + c - '0';
+        }
+        while ((c = read()) >= '0' && c <= '9');
+
+        if (c == '.')
+        {
+            while ((c = read()) >= '0' && c <= '9')
+            {
+                ret += (c - '0') / (div *= 10);
             }
         }
-        return st.nextToken();
+
+        if (neg)
+            return -ret;
+        return ret;
     }
-    int nextInt(){
-        return Integer.parseInt(next());
+    private static int binarySearchPM(int[] arr, int key)
+    {
+        int n = arr.length;
+        int mid = -1;
+        int begin = 0, end = n;
+        while(begin <= end)
+        {
+            mid = (begin + end) / 2;
+            if(mid == n)
+            {
+                return n;
+            }
+            if(key < arr[mid])
+            {
+                end = mid - 1;
+            }
+            else if(key > arr[mid])
+            {
+                begin = mid + 1;
+            }
+            else
+            {
+                return mid;
+            }
+        }
+        //System.out.println(begin+" "+end);
+        return -begin; //expected Index
+    }
+    // function to find last index <= y
+    static int upperIndex(int arr[], int n, int y)
+    {
+        int l = 0, h = n - 1;
+        while (l <= h)
+        {
+            int mid = (l + h) / 2;
+            if (arr[mid] <= y)
+                l = mid + 1;
+            else
+                h = mid - 1;
+        }
+        return h;
+    }
+    static int lowerIndex(int arr[], int n, int x)
+    {
+        int l = 0, h = n - 1;
+        while (l <= h)
+        {
+            int mid = (l + h) / 2;
+            if (arr[mid] >= x)
+                h = mid - 1;
+            else
+                l = mid + 1;
+        }
+        return l;
     }
 }
