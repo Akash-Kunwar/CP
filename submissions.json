@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF86156464": {
+    "contest_id": 1375,
+    "language": "PyPy 3",
+    "path": "codeforces\\1375\\B.py",
+    "problem_index": "B",
+    "problem_name": "Neighbor Grid",
+    "problem_url": "https://codeforces.com/contest/1375/problem/B",
+    "submission_id": "CF86156464",
+    "submission_url": "https://codeforces.com/contest/1375/submission/86156464",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Jul/07/2020 02:14"
+  },
   "CF86221116": {
     "contest_id": 1348,
     "language": "Java 8",
