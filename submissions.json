@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF86493280": {
+    "contest_id": 1339,
+    "language": "PyPy 3",
+    "path": "codeforces\\1339\\C.py",
+    "problem_index": "C",
+    "problem_name": "Powered Addition",
+    "problem_url": "https://codeforces.com/contest/1339/problem/C",
+    "submission_id": "CF86493280",
+    "submission_url": "https://codeforces.com/contest/1339/submission/86493280",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Jul/11/2020 15:47"
+  },
   "CF86524941": {
     "contest_id": 1372,
     "language": "PyPy 3",
