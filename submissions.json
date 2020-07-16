@@ -508,6 +508,24 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF86985669": {
+    "contest_id": 1334,
+    "language": "Java 8",
+    "path": "codeforces\\1334\\D.java",
+    "problem_index": "D",
+    "problem_name": "Minimum Euler Cycle",
+    "problem_url": "https://codeforces.com/contest/1334/problem/D",
+    "submission_id": "CF86985669",
+    "submission_url": "https://codeforces.com/contest/1334/submission/86985669",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Jul/16/2020 17:38"
+  },
   "CF87117754": {
     "contest_id": 1385,
     "language": "PyPy 3",
