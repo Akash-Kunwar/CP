@@ -6,7 +6,6 @@ def bfs(g,n):
     q.append((1,0,1))
     visited[1]=False
     while(len(q)!=0):
-        
         city,l,p=q.pop()
         neighbours = []
         for i in g[city]:
