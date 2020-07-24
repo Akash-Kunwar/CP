@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF87935474": {
+    "contest_id": 1384,
+    "language": "PyPy 3",
+    "path": "codeforces\\1384\\A.py",
+    "problem_index": "A",
+    "problem_name": "Common Prefixes",
+    "problem_url": "https://codeforces.com/contest/1384/problem/A",
+    "submission_id": "CF87935474",
+    "submission_url": "https://codeforces.com/contest/1384/submission/87935474",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Jul/25/2020 00:17"
+  },
   "CF87959319": {
     "contest_id": 1384,
     "language": "PyPy 3",
