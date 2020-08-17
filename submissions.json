@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF90201890": {
+    "contest_id": 1392,
+    "language": "PyPy 3",
+    "path": "codeforces\\1392\\B.py",
+    "problem_index": "B",
+    "problem_name": "Omkar and Infinity Clock",
+    "problem_url": "https://codeforces.com/contest/1392/problem/B",
+    "submission_id": "CF90201890",
+    "submission_url": "https://codeforces.com/contest/1392/submission/90201890",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/17/2020 12:21"
+  },
   "CF90217264": {
     "contest_id": 1392,
     "language": "Java 11",
