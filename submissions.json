@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF90217264": {
+    "contest_id": 1392,
+    "language": "Java 11",
+    "path": "codeforces\\1392\\C.java",
+    "problem_index": "C",
+    "problem_name": "Omkar and Waterslide",
+    "problem_url": "https://codeforces.com/contest/1392/problem/C",
+    "submission_id": "CF90217264",
+    "submission_url": "https://codeforces.com/contest/1392/submission/90217264",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Aug/17/2020 15:48"
+  },
   "CF90310104": {
     "contest_id": 1392,
     "language": "Java 11",
