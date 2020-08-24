@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF90855613": {
+    "contest_id": 1379,
+    "language": "PyPy 3",
+    "path": "codeforces\\1379\\A.py",
+    "problem_index": "A",
+    "problem_name": "Acacius and String",
+    "problem_url": "https://codeforces.com/contest/1379/problem/A",
+    "submission_id": "CF90855613",
+    "submission_url": "https://codeforces.com/contest/1379/submission/90855613",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Aug/25/2020 01:02"
+  },
   "CF90857989": {
     "contest_id": 144,
     "language": "PyPy 3",
