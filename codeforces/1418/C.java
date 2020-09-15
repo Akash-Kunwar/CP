@@ -11,21 +11,20 @@ public class Main
     static long nL() throws Exception{
         return sc.nextLong();
     } 
-    static int ok(int arr[],int start,int chance,int dp[][]){
-        if(start>=arr.length) return 0;
-        if(dp[start][chance]!=-1) return dp[start][chance];
-        int op1=Integer.MAX_VALUE,op2=Integer.MAX_VALUE;
-        if(chance%2==0){
-            op1=arr[start]+ok(arr,start+1,1,dp);
-            if(start+1<arr.length){
-                op2=arr[start]+arr[start+1]+ok(arr,start+2,1,dp);
-            }
-        }   
-        else{
-            op1=ok(arr,start+1,0,dp);
-            op2=ok(arr,start+2,0,dp);
+    static int ok(int arr[],int dp[][]){
+        int n=arr.length;
+        dp[0][0]=arr[0];
+        dp[0][1]=(int)1e5;
+        if(n==1){
+            return Math.min(dp[0][0],dp[0][1]);
         }
-        return dp[start][chance]=Math.min(op1,op2);
+        dp[1][0]=arr[0]+arr[1];
+        dp[1][1]=arr[0];
+        for(int i=2;i<n;i++){
+            dp[i][0]=Math.min(arr[i]+dp[i-1][1],dp[i-2][1]+arr[i-1]+arr[i]);
+            dp[i][1]=Math.min(dp[i-1][0],dp[i-2][0]);
+        }
+        return Math.min(dp[n-1][0],dp[n-1][1]);
     }
     
     public static void main(String args[]) throws Exception{
@@ -33,12 +32,9 @@ public class Main
         while(t-->0){
             int n=nI();
             int arr[] = new int[n];
-            int dp[][] =new int[n+1][2];
-            for(int i=0;i<n+1;i++){
-                Arrays.fill(dp[i],-1);
-            }
+            int dp[][] =new int[n][2];
             for(int i=0;i<n;i++) arr[i]=nI();
-            out.println(ok(arr,0,0,dp));
+            out.println(ok(arr,dp));
         }
         out.close();
     }
