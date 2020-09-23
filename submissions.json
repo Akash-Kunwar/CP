@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF93578645": {
+    "contest_id": 2,
+    "language": "Java 8",
+    "path": "codeforces\\2\\A.java",
+    "problem_index": "A",
+    "problem_name": "Winner",
+    "problem_url": "https://codeforces.com/contest/2/problem/A",
+    "submission_id": "CF93578645",
+    "submission_url": "https://codeforces.com/contest/2/submission/93578645",
+    "tags": [
+      "hashing",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Sep/23/2020 21:31"
+  },
   "CF93612027": {
     "contest_id": 580,
     "language": "Java 8",
