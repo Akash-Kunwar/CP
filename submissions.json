@@ -508,6 +508,24 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF93782614": {
+    "contest_id": 492,
+    "language": "Java 8",
+    "path": "codeforces\\492\\B.java",
+    "problem_index": "B",
+    "problem_name": "Vanya and Lanterns",
+    "problem_url": "https://codeforces.com/contest/492/problem/B",
+    "submission_id": "CF93782614",
+    "submission_url": "https://codeforces.com/contest/492/submission/93782614",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Sep/25/2020 17:39"
+  },
   "CF93788862": {
     "contest_id": 451,
     "language": "Java 8",
