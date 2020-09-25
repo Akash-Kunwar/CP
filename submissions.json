@@ -508,6 +508,21 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF93816302": {
+    "contest_id": 454,
+    "language": "Java 8",
+    "path": "codeforces\\454\\B.java",
+    "problem_index": "B",
+    "problem_name": "Little Pony and Sort by Shift",
+    "problem_url": "https://codeforces.com/contest/454/problem/B",
+    "submission_id": "CF93816302",
+    "submission_url": "https://codeforces.com/contest/454/submission/93816302",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Sep/26/2020 00:40"
+  },
   "CF93817078": {
     "contest_id": 265,
     "language": "Java 8",
