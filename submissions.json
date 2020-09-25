@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF93821705": {
+    "contest_id": 259,
+    "language": "Java 8",
+    "path": "codeforces\\259\\B.java",
+    "problem_index": "B",
+    "problem_name": "Little Elephant and Magic Square",
+    "problem_url": "https://codeforces.com/contest/259/problem/B",
+    "submission_id": "CF93821705",
+    "submission_url": "https://codeforces.com/contest/259/submission/93821705",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Sep/26/2020 02:27"
+  },
   "CF93873108": {
     "contest_id": 432,
     "language": "Java 8",
