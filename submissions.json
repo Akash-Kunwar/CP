@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF93803386": {
+    "contest_id": 447,
+    "language": "Java 8",
+    "path": "codeforces\\447\\B.java",
+    "problem_index": "B",
+    "problem_name": "DZY Loves Strings",
+    "problem_url": "https://codeforces.com/contest/447/problem/B",
+    "submission_id": "CF93803386",
+    "submission_url": "https://codeforces.com/contest/447/submission/93803386",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Sep/25/2020 21:54"
+  },
   "CF93806664": {
     "contest_id": 507,
     "language": "Java 8",
