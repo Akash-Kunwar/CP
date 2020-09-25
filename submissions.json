@@ -508,6 +508,24 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF93801632": {
+    "contest_id": 230,
+    "language": "Java 8",
+    "path": "codeforces\\230\\B.java",
+    "problem_index": "B",
+    "problem_name": "T-primes",
+    "problem_url": "https://codeforces.com/contest/230/problem/B",
+    "submission_id": "CF93801632",
+    "submission_url": "https://codeforces.com/contest/230/submission/93801632",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Sep/25/2020 21:36"
+  },
   "CF93802475": {
     "contest_id": 508,
     "language": "Java 8",
