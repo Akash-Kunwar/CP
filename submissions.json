@@ -508,6 +508,21 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF93818982": {
+    "contest_id": 285,
+    "language": "Java 8",
+    "path": "codeforces\\285\\B.java",
+    "problem_index": "B",
+    "problem_name": "Find Marble",
+    "problem_url": "https://codeforces.com/contest/285/problem/B",
+    "submission_id": "CF93818982",
+    "submission_url": "https://codeforces.com/contest/285/submission/93818982",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Sep/26/2020 01:28"
+  },
   "CF93819688": {
     "contest_id": 450,
     "language": "Java 8",
