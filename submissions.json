@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF93873108": {
+    "contest_id": 432,
+    "language": "Java 8",
+    "path": "codeforces\\432\\B.java",
+    "problem_index": "B",
+    "problem_name": "Football Kit",
+    "problem_url": "https://codeforces.com/contest/432/problem/B",
+    "submission_id": "CF93873108",
+    "submission_url": "https://codeforces.com/contest/432/submission/93873108",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Sep/26/2020 18:00"
+  },
   "CF93873789": {
     "contest_id": 276,
     "language": "Java 8",
