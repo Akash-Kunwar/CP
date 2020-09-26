@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF93874776": {
+    "contest_id": 362,
+    "language": "Java 8",
+    "path": "codeforces\\362\\B.java",
+    "problem_index": "B",
+    "problem_name": "Petya and Staircases",
+    "problem_url": "https://codeforces.com/contest/362/problem/B",
+    "submission_id": "CF93874776",
+    "submission_url": "https://codeforces.com/contest/362/submission/93874776",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Sep/26/2020 18:19"
+  },
   "CF93876979": {
     "contest_id": 279,
     "language": "Java 8",
