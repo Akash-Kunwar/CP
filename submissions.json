@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF93952833": {
+    "contest_id": 387,
+    "language": "Java 8",
+    "path": "codeforces\\387\\B.java",
+    "problem_index": "B",
+    "problem_name": "George and Round",
+    "problem_url": "https://codeforces.com/contest/387/problem/B",
+    "submission_id": "CF93952833",
+    "submission_url": "https://codeforces.com/contest/387/submission/93952833",
+    "tags": [
+      "brute force",
+      "greedy",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Sep/27/2020 17:22"
+  },
   "CF93953760": {
     "contest_id": 365,
     "language": "Java 8",
