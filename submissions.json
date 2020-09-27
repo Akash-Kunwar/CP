@@ -508,6 +508,21 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94032865": {
+    "contest_id": 1417,
+    "language": "Java 8",
+    "path": "codeforces\\1417\\C.java",
+    "problem_index": "C",
+    "problem_name": "k-Amazing Numbers",
+    "problem_url": "https://codeforces.com/contest/1417/problem/C",
+    "submission_id": "CF94032865",
+    "submission_url": "https://codeforces.com/contest/1417/submission/94032865",
+    "tags": [
+      "data structures",
+      "*1500"
+    ],
+    "timestamp": "Sep/28/2020 02:20"
+  },
   "CF94050526": {
     "contest_id": 157,
     "language": "Java 8",
