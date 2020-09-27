@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF93950403": {
+    "contest_id": 509,
+    "language": "Java 8",
+    "path": "codeforces\\509\\B.java",
+    "problem_index": "B",
+    "problem_name": "Painting Pebbles",
+    "problem_url": "https://codeforces.com/contest/509/problem/B",
+    "submission_id": "CF93950403",
+    "submission_url": "https://codeforces.com/contest/509/submission/93950403",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Sep/27/2020 16:49"
+  },
   "CF93952833": {
     "contest_id": 387,
     "language": "Java 8",
