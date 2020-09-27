@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94023435": {
+    "contest_id": 1417,
+    "language": "Java 8",
+    "path": "codeforces\\1417\\A.java",
+    "problem_index": "A",
+    "problem_name": "Copy-paste",
+    "problem_url": "https://codeforces.com/contest/1417/problem/A",
+    "submission_id": "CF94023435",
+    "submission_url": "https://codeforces.com/contest/1417/submission/94023435",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/27/2020 23:28"
+  },
   "CF94025134": {
     "contest_id": 1417,
     "language": "Java 8",
