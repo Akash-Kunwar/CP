@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94050927": {
+    "contest_id": 34,
+    "language": "Java 8",
+    "path": "codeforces\\34\\B.java",
+    "problem_index": "B",
+    "problem_name": "Sale",
+    "problem_url": "https://codeforces.com/contest/34/problem/B",
+    "submission_id": "CF94050927",
+    "submission_url": "https://codeforces.com/contest/34/submission/94050927",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Sep/28/2020 11:08"
+  },
   "CF94068185": {
     "contest_id": 1426,
     "language": "Java 8",
