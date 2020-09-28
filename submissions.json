@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94165134": {
+    "contest_id": 352,
+    "language": "Java 8",
+    "path": "codeforces\\352\\B.java",
+    "problem_index": "B",
+    "problem_name": "Jeff and Periods",
+    "problem_url": "https://codeforces.com/contest/352/problem/B",
+    "submission_id": "CF94165134",
+    "submission_url": "https://codeforces.com/contest/352/submission/94165134",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Sep/29/2020 03:08"
+  },
   "CF94216333": {
     "contest_id": 401,
     "language": "Java 8",
