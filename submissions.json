@@ -508,6 +508,24 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94113924": {
+    "contest_id": 1426,
+    "language": "Java 8",
+    "path": "codeforces\\1426\\D.java",
+    "problem_index": "D",
+    "problem_name": "Non-zero Segments",
+    "problem_url": "https://codeforces.com/contest/1426/problem/D",
+    "submission_id": "CF94113924",
+    "submission_url": "https://codeforces.com/contest/1426/submission/94113924",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Sep/28/2020 15:53"
+  },
   "CF94133973": {
     "contest_id": 469,
     "language": "Java 8",
