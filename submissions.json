@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94164509": {
+    "contest_id": 155,
+    "language": "Java 8",
+    "path": "codeforces\\155\\B.java",
+    "problem_index": "B",
+    "problem_name": "Combination",
+    "problem_url": "https://codeforces.com/contest/155/problem/B",
+    "submission_id": "CF94164509",
+    "submission_url": "https://codeforces.com/contest/155/submission/94164509",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Sep/29/2020 02:49"
+  },
   "CF94165134": {
     "contest_id": 352,
     "language": "Java 8",
