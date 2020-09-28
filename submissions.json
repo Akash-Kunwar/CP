@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94068185": {
+    "contest_id": 1426,
+    "language": "Java 8",
+    "path": "codeforces\\1426\\A.java",
+    "problem_index": "A",
+    "problem_name": "Floor Number",
+    "problem_url": "https://codeforces.com/contest/1426/problem/A",
+    "submission_id": "CF94068185",
+    "submission_url": "https://codeforces.com/contest/1426/submission/94068185",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/28/2020 13:45"
+  },
   "CF94075531": {
     "contest_id": 1426,
     "language": "Java 8",
