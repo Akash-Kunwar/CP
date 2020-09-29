@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94216333": {
+    "contest_id": 401,
+    "language": "Java 8",
+    "path": "codeforces\\401\\C.java",
+    "problem_index": "C",
+    "problem_name": "Team",
+    "problem_url": "https://codeforces.com/contest/401/problem/C",
+    "submission_id": "CF94216333",
+    "submission_url": "https://codeforces.com/contest/401/submission/94216333",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Sep/29/2020 19:26"
+  },
   "CF94222677": {
     "contest_id": 268,
     "language": "Java 8",
