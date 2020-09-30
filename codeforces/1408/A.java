@@ -9,29 +9,33 @@ public class Main{
         while(t-->0){
             int n=sc.nextInt();
             int a[]=new int[n],b[]=new int[n],c[]=new int[n];
+            int p[]=new int[n];
             for(int i=0;i<n;i++) a[i]=sc.nextInt();
             for(int i=0;i<n;i++) b[i]=sc.nextInt();
             for(int i=0;i<n;i++) c[i]=sc.nextInt();
+            p[0]=a[0];
             for(int i=1;i<n;i++){
-                if(a[i]==a[i-1] ){
-                    if(a[i]!=b[i-1]){
-                        a[i]=b[i];
+                if(p[i-1]==a[i]){
+                    if(p[i-1]==b[i]){
+                        p[i]=c[i];
                     }
                     else{
-                        a[i]=c[i];
+                        p[i]=b[i];
                     }
                 }
-                if(i==n-1 && a[i]==a[0]){
-                    if(b[i]!=a[0] && b[i]!=a[i-1]){
-                        a[i]=b[i];
-                    }
-                    else{
-                        a[i]=c[i];
-                    }
+                else{
+                    p[i]=a[i];
                 }
             }
-            
-            for(int i:a){
+            if(p[n-1]==p[0]){
+                if(p[n-2]==c[n-1]){
+                    p[n-1]=b[n-1];
+                }
+                else{
+                    p[n-1]=c[n-1];
+                }
+            }
+            for(int i:p){
                 out.print(i+" ");
             }
             out.println();
