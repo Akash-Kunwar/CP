@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94293642": {
+    "contest_id": 366,
+    "language": "Java 8",
+    "path": "codeforces\\366\\B.java",
+    "problem_index": "B",
+    "problem_name": "Dima and To-do List",
+    "problem_url": "https://codeforces.com/contest/366/problem/B",
+    "submission_id": "CF94293642",
+    "submission_url": "https://codeforces.com/contest/366/submission/94293642",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Sep/30/2020 19:02"
+  },
   "CF94329076": {
     "contest_id": 1408,
     "language": "Java 8",
