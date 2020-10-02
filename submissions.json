@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94470194": {
+    "contest_id": 416,
+    "language": "Java 8",
+    "path": "codeforces\\416\\B.java",
+    "problem_index": "B",
+    "problem_name": "Art Union",
+    "problem_url": "https://codeforces.com/contest/416/problem/B",
+    "submission_id": "CF94470194",
+    "submission_url": "https://codeforces.com/contest/416/submission/94470194",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Oct/02/2020 14:01"
+  },
   "CF94470691": {
     "contest_id": 110,
     "language": "Java 8",
