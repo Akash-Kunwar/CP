@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94472873": {
+    "contest_id": 312,
+    "language": "Java 8",
+    "path": "codeforces\\312\\B.java",
+    "problem_index": "B",
+    "problem_name": "Archer",
+    "problem_url": "https://codeforces.com/contest/312/problem/B",
+    "submission_id": "CF94472873",
+    "submission_url": "https://codeforces.com/contest/312/submission/94472873",
+    "tags": [
+      "math",
+      "probabilities",
+      "*1300"
+    ],
+    "timestamp": "Oct/02/2020 14:37"
+  },
   "CF94573097": {
     "contest_id": 349,
     "language": "Java 8",
