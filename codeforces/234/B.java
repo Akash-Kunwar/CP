@@ -3,8 +3,8 @@ import java.io.*;
 import java.lang.*;
 public class Main{ 
     public static void main(String[] args) throws Exception{
-        FastScanner sc =new FastScanner();
-        PrintWriter out=new PrintWriter(new File("output.txt"));
+        Scanner sc = new Scanner((new FileReader("input.txt")));
+		FileWriter out = new FileWriter("output.txt");
         int n=sc.nextInt();
         int k=sc.nextInt();
         List<Pair> arr=new ArrayList<>();
@@ -15,9 +15,9 @@ public class Main{
         Collections.sort(arr,(a,b)->{
             return b.val-a.val;
         });
-        out.println(arr.get(k-1).val);
+        out.write(arr.get(k-1).val+"\n");
         for(int i=0;i<k;i++){
-            out.print(arr.get(i).idx+" ");
+            out.write(arr.get(i).idx+" ");
         }
         out.close();
     }
@@ -29,23 +29,20 @@ class Pair{
         this.val=val;
     }
 }
-class FastScanner {
-    BufferedReader br;
-    StringTokenizer st =new StringTokenizer("");
-    FastScanner() throws Exception{
-        br=new BufferedReader(new FileReader("input.txt"));
-    }
-    String next(){
-        if(!st.hasMoreTokens()){
-            try{
-                st=new StringTokenizer(br.readLine());
-            }
-            catch(Exception e){    
-            }
-        }
-        return st.nextToken();
-    }
-    int nextInt(){
-        return Integer.parseInt(next());
-    }
-}
+// class FastScanner {
+//     BufferedReader br =new BufferedReader(new FileReader("input.txt"));
+//     StringTokenizer st =new StringTokenizer("");
+//     String next(){
+//         if(!st.hasMoreTokens()){
+//             try{
+//                 st=new StringTokenizer(br.readLine());
+//             }
+//             catch(Exception e){    
+//             }
+//         }
+//         return st.nextToken();
+//     }
+//     int nextInt(){
+//         return Integer.parseInt(next());
+//     }
+// }

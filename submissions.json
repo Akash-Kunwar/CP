@@ -508,6 +508,21 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94789829": {
+    "contest_id": 234,
+    "language": "Java 8",
+    "path": "codeforces\\234\\B.java",
+    "problem_index": "B",
+    "problem_name": "Reading",
+    "problem_url": "https://codeforces.com/contest/234/problem/B",
+    "submission_id": "CF94789829",
+    "submission_url": "https://codeforces.com/contest/234/submission/94789829",
+    "tags": [
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Oct/05/2020 21:30"
+  },
   "CF94790323": {
     "contest_id": 234,
     "language": "Java 8",
