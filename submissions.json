@@ -508,6 +508,24 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94836842": {
+    "contest_id": 129,
+    "language": "Java 8",
+    "path": "codeforces\\129\\B.java",
+    "problem_index": "B",
+    "problem_name": "Students and Shoelaces",
+    "problem_url": "https://codeforces.com/contest/129/problem/B",
+    "submission_id": "CF94836842",
+    "submission_url": "https://codeforces.com/contest/129/submission/94836842",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Oct/06/2020 15:10"
+  },
   "CF94839726": {
     "contest_id": 143,
     "language": "Java 8",
