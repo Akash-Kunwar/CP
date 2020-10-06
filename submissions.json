@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94839726": {
+    "contest_id": 143,
+    "language": "Java 8",
+    "path": "codeforces\\143\\B.java",
+    "problem_index": "B",
+    "problem_name": "Help Kingdom of Far Far Away 2",
+    "problem_url": "https://codeforces.com/contest/143/problem/B",
+    "submission_id": "CF94839726",
+    "submission_url": "https://codeforces.com/contest/143/submission/94839726",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Oct/06/2020 15:59"
+  },
   "CF94883040": {
     "contest_id": 437,
     "language": "Java 8",
