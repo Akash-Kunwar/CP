@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94823030": {
+    "contest_id": 151,
+    "language": "Java 8",
+    "path": "codeforces\\151\\B.java",
+    "problem_index": "B",
+    "problem_name": "Phone Numbers",
+    "problem_url": "https://codeforces.com/contest/151/problem/B",
+    "submission_id": "CF94823030",
+    "submission_url": "https://codeforces.com/contest/151/submission/94823030",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Oct/06/2020 11:25"
+  },
   "CF94834262": {
     "contest_id": 359,
     "language": "Java 8",
