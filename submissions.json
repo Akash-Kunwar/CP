@@ -508,6 +508,24 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94883040": {
+    "contest_id": 437,
+    "language": "Java 8",
+    "path": "codeforces\\437\\B.java",
+    "problem_index": "B",
+    "problem_name": "The Child and Set",
+    "problem_url": "https://codeforces.com/contest/437/problem/B",
+    "submission_id": "CF94883040",
+    "submission_url": "https://codeforces.com/contest/437/submission/94883040",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Oct/08/2020 10:35"
+  },
   "CF94970903": {
     "contest_id": 205,
     "language": "Java 8",
