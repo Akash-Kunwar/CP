@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94970903": {
+    "contest_id": 205,
+    "language": "Java 8",
+    "path": "codeforces\\205\\B.java",
+    "problem_index": "B",
+    "problem_name": "Little Elephant and Sorting",
+    "problem_url": "https://codeforces.com/contest/205/problem/B",
+    "submission_id": "CF94970903",
+    "submission_url": "https://codeforces.com/contest/205/submission/94970903",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Oct/09/2020 14:21"
+  },
   "CF94974359": {
     "contest_id": 192,
     "language": "Java 8",
