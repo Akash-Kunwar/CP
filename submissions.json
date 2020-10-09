@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF95019039": {
+    "contest_id": 96,
+    "language": "Java 8",
+    "path": "codeforces\\96\\B.java",
+    "problem_index": "B",
+    "problem_name": "Lucky Numbers (easy)",
+    "problem_url": "https://codeforces.com/contest/96/problem/B",
+    "submission_id": "CF95019039",
+    "submission_url": "https://codeforces.com/contest/96/submission/95019039",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "*1300"
+    ],
+    "timestamp": "Oct/10/2020 02:13"
+  },
   "CF95051861": {
     "contest_id": 195,
     "language": "Java 8",
