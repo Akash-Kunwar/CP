@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF95017986": {
+    "contest_id": 342,
+    "language": "Java 8",
+    "path": "codeforces\\342\\B.java",
+    "problem_index": "B",
+    "problem_name": "Xenia and Spies",
+    "problem_url": "https://codeforces.com/contest/342/problem/B",
+    "submission_id": "CF95017986",
+    "submission_url": "https://codeforces.com/contest/342/submission/95017986",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Oct/10/2020 01:43"
+  },
   "CF95019039": {
     "contest_id": 96,
     "language": "Java 8",
