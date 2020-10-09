@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF94988318": {
+    "contest_id": 228,
+    "language": "Java 8",
+    "path": "codeforces\\228\\B.java",
+    "problem_index": "B",
+    "problem_name": "Two Tables",
+    "problem_url": "https://codeforces.com/contest/228/problem/B",
+    "submission_id": "CF94988318",
+    "submission_url": "https://codeforces.com/contest/228/submission/94988318",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Oct/09/2020 18:34"
+  },
   "CF95017986": {
     "contest_id": 342,
     "language": "Java 8",
