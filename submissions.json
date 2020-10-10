@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF95070157": {
+    "contest_id": 320,
+    "language": "Java 8",
+    "path": "codeforces\\320\\B.java",
+    "problem_index": "B",
+    "problem_name": "Ping-Pong (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/320/problem/B",
+    "submission_id": "CF95070157",
+    "submission_url": "https://codeforces.com/contest/320/submission/95070157",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*1500"
+    ],
+    "timestamp": "Oct/10/2020 15:47"
+  },
   "CF95198721": {
     "contest_id": 1427,
     "language": "Java 8",
