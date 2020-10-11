@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF95301890": {
+    "contest_id": 1430,
+    "language": "Java 8",
+    "path": "codeforces\\1430\\E.java",
+    "problem_index": "E",
+    "problem_name": "String Reversal",
+    "problem_url": "https://codeforces.com/contest/1430/problem/E",
+    "submission_id": "CF95301890",
+    "submission_url": "https://codeforces.com/contest/1430/submission/95301890",
+    "tags": [
+      "data structures",
+      "greedy",
+      "strings",
+      "*1900"
+    ],
+    "timestamp": "Oct/12/2020 03:34"
+  },
   "CF95330967": {
     "contest_id": 276,
     "language": "Java 8",
