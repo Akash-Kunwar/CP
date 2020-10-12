@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF95333726": {
+    "contest_id": 1424,
+    "language": "Java 8",
+    "path": "codeforces\\1424\\G.java",
+    "problem_index": "G",
+    "problem_name": "Years",
+    "problem_url": "https://codeforces.com/contest/1424/problem/G",
+    "submission_id": "CF95333726",
+    "submission_url": "https://codeforces.com/contest/1424/submission/95333726",
+    "tags": [
+      "data structures",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Oct/12/2020 16:15"
+  },
   "CF95394758": {
     "contest_id": 231,
     "language": "Java 8",
