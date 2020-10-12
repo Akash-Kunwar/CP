@@ -508,6 +508,24 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF95330967": {
+    "contest_id": 276,
+    "language": "Java 8",
+    "path": "codeforces\\276\\C.java",
+    "problem_index": "C",
+    "problem_name": "Little Girl and Maximum Sum",
+    "problem_url": "https://codeforces.com/contest/276/problem/C",
+    "submission_id": "CF95330967",
+    "submission_url": "https://codeforces.com/contest/276/submission/95330967",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Oct/12/2020 15:30"
+  },
   "CF95333726": {
     "contest_id": 1424,
     "language": "Java 8",
