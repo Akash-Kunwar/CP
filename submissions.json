@@ -508,6 +508,21 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF95429168": {
+    "contest_id": 63,
+    "language": "Java 8",
+    "path": "codeforces\\63\\B.java",
+    "problem_index": "B",
+    "problem_name": "Settlers' Training",
+    "problem_url": "https://codeforces.com/contest/63/problem/B",
+    "submission_id": "CF95429168",
+    "submission_url": "https://codeforces.com/contest/63/submission/95429168",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Oct/13/2020 18:52"
+  },
   "CF95430271": {
     "contest_id": 263,
     "language": "Java 8",
