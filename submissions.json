@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF95539670": {
+    "contest_id": 602,
+    "language": "Java 8",
+    "path": "codeforces\\602\\B.java",
+    "problem_index": "B",
+    "problem_name": "Approximating a Constant Range",
+    "problem_url": "https://codeforces.com/contest/602/problem/B",
+    "submission_id": "CF95539670",
+    "submission_url": "https://codeforces.com/contest/602/submission/95539670",
+    "tags": [
+      "dp",
+      "implementation",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Oct/15/2020 01:28"
+  },
   "CF95542755": {
     "contest_id": 446,
     "language": "Java 8",
