@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF95580897": {
+    "contest_id": 94,
+    "language": "Java 8",
+    "path": "codeforces\\94\\B.java",
+    "problem_index": "B",
+    "problem_name": "Friends",
+    "problem_url": "https://codeforces.com/contest/94/problem/B",
+    "submission_id": "CF95580897",
+    "submission_url": "https://codeforces.com/contest/94/submission/95580897",
+    "tags": [
+      "graphs",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Oct/15/2020 17:18"
+  },
   "CF95677463": {
     "contest_id": 439,
     "language": "Java 8",
