@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF95678178": {
+    "contest_id": 274,
+    "language": "Java 8",
+    "path": "codeforces\\274\\A.java",
+    "problem_index": "A",
+    "problem_name": "k-Multiple Free Set",
+    "problem_url": "https://codeforces.com/contest/274/problem/A",
+    "submission_id": "CF95678178",
+    "submission_url": "https://codeforces.com/contest/274/submission/95678178",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Oct/16/2020 21:43"
+  },
   "CF95828257": {
     "contest_id": 1428,
     "language": "Java 8",
