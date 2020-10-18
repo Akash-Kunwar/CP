@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF95845929": {
+    "contest_id": 1428,
+    "language": "Java 8",
+    "path": "codeforces\\1428\\B.java",
+    "problem_index": "B",
+    "problem_name": "Belted Rooms",
+    "problem_url": "https://codeforces.com/contest/1428/problem/B",
+    "submission_id": "CF95845929",
+    "submission_url": "https://codeforces.com/contest/1428/submission/95845929",
+    "tags": [
+      "graphs",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Oct/18/2020 12:08"
+  },
   "CF95846195": {
     "contest_id": 1428,
     "language": "Java 8",
