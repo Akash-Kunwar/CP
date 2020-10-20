@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF96182550": {
+    "contest_id": 1433,
+    "language": "Java 8",
+    "path": "codeforces\\1433\\D.java",
+    "problem_index": "D",
+    "problem_name": "Districts Connection",
+    "problem_url": "https://codeforces.com/contest/1433/problem/D",
+    "submission_id": "CF96182550",
+    "submission_url": "https://codeforces.com/contest/1433/submission/96182550",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "*1200"
+    ],
+    "timestamp": "Oct/21/2020 00:54"
+  },
   "CF96310632": {
     "contest_id": 372,
     "language": "Java 8",
