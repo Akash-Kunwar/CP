@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF96675395": {
+    "contest_id": 1435,
+    "language": "Java 8",
+    "path": "codeforces\\1435\\B.java",
+    "problem_index": "B",
+    "problem_name": "A New Technique",
+    "problem_url": "https://codeforces.com/contest/1435/problem/B",
+    "submission_id": "CF96675395",
+    "submission_url": "https://codeforces.com/contest/1435/submission/96675395",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Oct/25/2020 17:30"
+  },
   "CF96851544": {
     "contest_id": 161,
     "language": "Java 8",
