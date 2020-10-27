@@ -508,6 +508,24 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF96851544": {
+    "contest_id": 161,
+    "language": "Java 8",
+    "path": "codeforces\\161\\A.java",
+    "problem_index": "A",
+    "problem_name": "Dress'em in Vests!",
+    "problem_url": "https://codeforces.com/contest/161/problem/A",
+    "submission_id": "CF96851544",
+    "submission_url": "https://codeforces.com/contest/161/submission/96851544",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Oct/27/2020 17:03"
+  },
   "CF97111887": {
     "contest_id": 500,
     "language": "Java 8",
