@@ -508,6 +508,24 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF97472219": {
+    "contest_id": 1443,
+    "language": "Java 8",
+    "path": "codeforces\\1443\\B.java",
+    "problem_index": "B",
+    "problem_name": "Saving the City",
+    "problem_url": "https://codeforces.com/contest/1443/problem/B",
+    "submission_id": "CF97472219",
+    "submission_url": "https://codeforces.com/contest/1443/submission/97472219",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Nov/02/2020 21:17"
+  },
   "CF97482367": {
     "contest_id": 1443,
     "language": "Java 8",
