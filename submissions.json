@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF97482367": {
+    "contest_id": 1443,
+    "language": "Java 8",
+    "path": "codeforces\\1443\\C.java",
+    "problem_index": "C",
+    "problem_name": "The Delivery Dilemma",
+    "problem_url": "https://codeforces.com/contest/1443/problem/C",
+    "submission_id": "CF97482367",
+    "submission_url": "https://codeforces.com/contest/1443/submission/97482367",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Nov/02/2020 21:42"
+  },
   "CF97570731": {
     "contest_id": 476,
     "language": "Java 8",
