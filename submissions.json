@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF97434987": {
+    "contest_id": 1421,
+    "language": "Java 8",
+    "path": "codeforces\\1421\\C.java",
+    "problem_index": "C",
+    "problem_name": "Palindromifier",
+    "problem_url": "https://codeforces.com/contest/1421/problem/C",
+    "submission_id": "CF97434987",
+    "submission_url": "https://codeforces.com/contest/1421/submission/97434987",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Nov/02/2020 19:56"
+  },
   "CF97455922": {
     "contest_id": 1443,
     "language": "Java 8",
