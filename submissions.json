@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF97634727": {
+    "contest_id": 1108,
+    "language": "Java 8",
+    "path": "codeforces\\1108\\D.java",
+    "problem_index": "D",
+    "problem_name": "Diverse Garland",
+    "problem_url": "https://codeforces.com/contest/1108/problem/D",
+    "submission_id": "CF97634727",
+    "submission_url": "https://codeforces.com/contest/1108/submission/97634727",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Nov/04/2020 18:26"
+  },
   "CF97707621": {
     "contest_id": 4,
     "language": "Java 8",
