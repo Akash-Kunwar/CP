@@ -508,6 +508,25 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF97618231": {
+    "contest_id": 1320,
+    "language": "Java 8",
+    "path": "codeforces\\1320\\A.java",
+    "problem_index": "A",
+    "problem_name": "Journey Planning",
+    "problem_url": "https://codeforces.com/contest/1320/problem/A",
+    "submission_id": "CF97618231",
+    "submission_url": "https://codeforces.com/contest/1320/submission/97618231",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Nov/04/2020 14:24"
+  },
   "CF97622257": {
     "contest_id": 1304,
     "language": "Java 8",
