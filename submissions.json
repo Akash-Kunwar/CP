@@ -508,6 +508,25 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF97622257": {
+    "contest_id": 1304,
+    "language": "Java 8",
+    "path": "codeforces\\1304\\C.java",
+    "problem_index": "C",
+    "problem_name": "Air Conditioner",
+    "problem_url": "https://codeforces.com/contest/1304/problem/C",
+    "submission_id": "CF97622257",
+    "submission_url": "https://codeforces.com/contest/1304/submission/97622257",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Nov/04/2020 15:31"
+  },
   "CF97634727": {
     "contest_id": 1108,
     "language": "Java 8",
