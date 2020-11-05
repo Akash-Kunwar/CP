@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF97720085": {
+    "contest_id": 1437,
+    "language": "Java 8",
+    "path": "codeforces\\1437\\B.java",
+    "problem_index": "B",
+    "problem_name": "Reverse Binary Strings",
+    "problem_url": "https://codeforces.com/contest/1437/problem/B",
+    "submission_id": "CF97720085",
+    "submission_url": "https://codeforces.com/contest/1437/submission/97720085",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Nov/05/2020 21:14"
+  },
   "CF97855087": {
     "contest_id": 1257,
     "language": "Java 8",
