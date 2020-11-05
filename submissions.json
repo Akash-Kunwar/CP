@@ -508,6 +508,23 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF97710245": {
+    "contest_id": 1294,
+    "language": "Java 8",
+    "path": "codeforces\\1294\\C.java",
+    "problem_index": "C",
+    "problem_name": "Product of Three Numbers",
+    "problem_url": "https://codeforces.com/contest/1294/problem/C",
+    "submission_id": "CF97710245",
+    "submission_url": "https://codeforces.com/contest/1294/submission/97710245",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Nov/05/2020 19:19"
+  },
   "CF97710343": {
     "contest_id": 1294,
     "language": "Java 8",
