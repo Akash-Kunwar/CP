@@ -508,6 +508,25 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF97855087": {
+    "contest_id": 1257,
+    "language": "Java 8",
+    "path": "codeforces\\1257\\C.java",
+    "problem_index": "C",
+    "problem_name": "Dominated Subarray",
+    "problem_url": "https://codeforces.com/contest/1257/problem/C",
+    "submission_id": "CF97855087",
+    "submission_url": "https://codeforces.com/contest/1257/submission/97855087",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Nov/07/2020 20:51"
+  },
   "CF99108143": {
     "contest_id": 456,
     "language": "Java 8",
