@@ -508,6 +508,24 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF99138135": {
+    "contest_id": 1451,
+    "language": "Java 8",
+    "path": "codeforces\\1451\\B.java",
+    "problem_index": "B",
+    "problem_name": "Non-Substring Subsequence",
+    "problem_url": "https://codeforces.com/contest/1451/problem/B",
+    "submission_id": "CF99138135",
+    "submission_url": "https://codeforces.com/contest/1451/submission/99138135",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Nov/21/2020 20:26"
+  },
   "CF99344304": {
     "contest_id": 1451,
     "language": "Java 8",
