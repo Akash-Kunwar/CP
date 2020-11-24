@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF99411280": {
+    "contest_id": 1454,
+    "language": "Java 8",
+    "path": "codeforces\\1454\\A.java",
+    "problem_index": "A",
+    "problem_name": "Special Permutation",
+    "problem_url": "https://codeforces.com/contest/1454/problem/A",
+    "submission_id": "CF99411280",
+    "submission_url": "https://codeforces.com/contest/1454/submission/99411280",
+    "tags": [
+      "constructive algorithms",
+      "probabilities",
+      "*800"
+    ],
+    "timestamp": "Nov/24/2020 20:09"
+  },
   "CF99423962": {
     "contest_id": 1454,
     "language": "Java 8",
