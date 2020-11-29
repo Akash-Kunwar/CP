@@ -508,6 +508,22 @@
     ],
     "timestamp": "Dec/20/2020 21:41"
   },
+  "CF99930848": {
+    "contest_id": 556,
+    "language": "Java 8",
+    "path": "codeforces\\556\\B.java",
+    "problem_index": "B",
+    "problem_name": "Case of Fake Numbers",
+    "problem_url": "https://codeforces.com/contest/556/problem/B",
+    "submission_id": "CF99930848",
+    "submission_url": "https://codeforces.com/contest/556/submission/99930848",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Nov/29/2020 23:40"
+  },
   "CF99931909": {
     "contest_id": 1271,
     "language": "Java 8",
