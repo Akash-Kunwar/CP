@@ -507,5 +507,21 @@
       "number theory"
     ],
     "timestamp": "Dec/20/2020 21:41"
+  },
+  "CF99996289": {
+    "contest_id": 1455,
+    "language": "Java 8",
+    "path": "codeforces\\1455\\A.java",
+    "problem_index": "A",
+    "problem_name": "Strange Functions",
+    "problem_url": "https://codeforces.com/contest/1455/problem/A",
+    "submission_id": "CF99996289",
+    "submission_url": "https://codeforces.com/contest/1455/submission/99996289",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Nov/30/2020 20:08"
   }
 }
