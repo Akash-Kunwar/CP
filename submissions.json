@@ -1,4 +1,19 @@
 {
+  "CF100180409": {
+    "contest_id": 121,
+    "language": "Java 8",
+    "path": "codeforces\\121\\A.java",
+    "problem_index": "A",
+    "problem_name": "Lucky Sum",
+    "problem_url": "https://codeforces.com/contest/121/problem/A",
+    "submission_id": "CF100180409",
+    "submission_url": "https://codeforces.com/contest/121/submission/100180409",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Dec/02/2020 16:24"
+  },
   "CF100181327": {
     "contest_id": 433,
     "language": "Java 8",
