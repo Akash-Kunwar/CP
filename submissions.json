@@ -1,4 +1,21 @@
 {
+  "CF100184934": {
+    "contest_id": 347,
+    "language": "Java 8",
+    "path": "codeforces\\347\\A.java",
+    "problem_index": "A",
+    "problem_name": "Difference Row",
+    "problem_url": "https://codeforces.com/contest/347/problem/A",
+    "submission_id": "CF100184934",
+    "submission_url": "https://codeforces.com/contest/347/submission/100184934",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Dec/02/2020 17:26"
+  },
   "CF100259501": {
     "contest_id": 486,
     "language": "Java 8",
