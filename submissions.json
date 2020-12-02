@@ -1,4 +1,20 @@
 {
+  "CF100182699": {
+    "contest_id": 433,
+    "language": "Java 8",
+    "path": "codeforces\\433\\A.java",
+    "problem_index": "A",
+    "problem_name": "Kitahara Haruki's Gift",
+    "problem_url": "https://codeforces.com/contest/433/problem/A",
+    "submission_id": "CF100182699",
+    "submission_url": "https://codeforces.com/contest/433/submission/100182699",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Dec/02/2020 16:58"
+  },
   "CF100184934": {
     "contest_id": 347,
     "language": "Java 8",
