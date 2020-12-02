@@ -1,4 +1,21 @@
 {
+  "CF100181327": {
+    "contest_id": 433,
+    "language": "Java 8",
+    "path": "codeforces\\433\\B.java",
+    "problem_index": "B",
+    "problem_name": "Kuriyama Mirai's Stones",
+    "problem_url": "https://codeforces.com/contest/433/problem/B",
+    "submission_id": "CF100181327",
+    "submission_url": "https://codeforces.com/contest/433/submission/100181327",
+    "tags": [
+      "dp",
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Dec/02/2020 16:39"
+  },
   "CF100182699": {
     "contest_id": 433,
     "language": "Java 8",
