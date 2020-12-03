@@ -1,4 +1,21 @@
 {
+  "CF100294575": {
+    "contest_id": 977,
+    "language": "Java 8",
+    "path": "codeforces\\977\\D.java",
+    "problem_index": "D",
+    "problem_name": "Divide by three, multiply by two",
+    "problem_url": "https://codeforces.com/contest/977/problem/D",
+    "submission_id": "CF100294575",
+    "submission_url": "https://codeforces.com/contest/977/submission/100294575",
+    "tags": [
+      "dfs and similar",
+      "math",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Dec/03/2020 22:55"
+  },
   "CF100319580": {
     "contest_id": 1296,
     "language": "Java 8",
