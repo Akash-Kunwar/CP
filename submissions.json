@@ -1,4 +1,21 @@
 {
+  "CF100259501": {
+    "contest_id": 486,
+    "language": "Java 8",
+    "path": "codeforces\\486\\C.java",
+    "problem_index": "C",
+    "problem_name": "Palindrome Transformation",
+    "problem_url": "https://codeforces.com/contest/486/problem/C",
+    "submission_id": "CF100259501",
+    "submission_url": "https://codeforces.com/contest/486/submission/100259501",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Dec/03/2020 15:40"
+  },
   "CF100289151": {
     "contest_id": 459,
     "language": "Java 8",
