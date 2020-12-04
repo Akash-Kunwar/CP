@@ -1,4 +1,20 @@
 {
+  "CF100319580": {
+    "contest_id": 1296,
+    "language": "Java 8",
+    "path": "codeforces\\1296\\D.java",
+    "problem_index": "D",
+    "problem_name": "Fight with Monsters",
+    "problem_url": "https://codeforces.com/contest/1296/problem/D",
+    "submission_id": "CF100319580",
+    "submission_url": "https://codeforces.com/contest/1296/submission/100319580",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Dec/04/2020 11:06"
+  },
   "CF100347025": {
     "contest_id": 1332,
     "language": "Java 8",
