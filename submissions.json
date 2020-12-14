@@ -1,4 +1,21 @@
 {
+  "CF101204893": {
+    "contest_id": 1176,
+    "language": "Java 8",
+    "path": "codeforces\\1176\\C.java",
+    "problem_index": "C",
+    "problem_name": "Lose it!",
+    "problem_url": "https://codeforces.com/contest/1176/problem/C",
+    "submission_id": "CF101204893",
+    "submission_url": "https://codeforces.com/contest/1176/submission/101204893",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Dec/15/2020 02:33"
+  },
   "CF101205583": {
     "contest_id": 1077,
     "language": "Java 8",
