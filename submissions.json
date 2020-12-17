@@ -1,4 +1,21 @@
 {
+  "CF101478442": {
+    "contest_id": 1462,
+    "language": "Java 8",
+    "path": "codeforces\\1462\\C.java",
+    "problem_index": "C",
+    "problem_name": "Unique Number",
+    "problem_url": "https://codeforces.com/contest/1462/problem/C",
+    "submission_id": "CF101478442",
+    "submission_url": "https://codeforces.com/contest/1462/submission/101478442",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Dec/17/2020 12:26"
+  },
   "CF101538330": {
     "contest_id": 1463,
     "language": "Java 8",
