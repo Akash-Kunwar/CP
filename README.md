@@ -12,4 +12,5 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1 | [B - Fair Numbers](https://codeforces.com/contest/1465/problem/B) | [Java 8](./codeforces/1465/B.java) | `brute force` `number theory` | Dec/20/2020 21:41 | 
+2 | [B - Fair Numbers](https://codeforces.com/contest/1465/problem/B) | [Java 8](./codeforces/1465/B.java) | `brute force` `number theory` | Dec/20/2020 21:41 | 
+1 | [A - In-game Chat](https://codeforces.com/contest/1465/problem/A) | [Java 8](./codeforces/1465/A.java) | `implementation` | Dec/20/2020 20:38 | 
